@@ -5,3 +5,6 @@ secret = 'djIIU973108*'
 # use a different file type since readme deep linking is broken
 secret = 'djIIU973108^^^'
 
+
+sec = 'djIIU973107^'
+
