@@ -9,3 +9,5 @@ secret = 'jkhdsifu1y397%'
 secret = 'jkhdsifu1y397^'
 
 secret = 'jkhdsifu1y397&'
+
+secret = 'jkhdsifu1y397$'
