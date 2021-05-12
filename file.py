@@ -9,3 +9,7 @@ secret = 'djIIU9731823y58^'
 
 # boo
 secret = 'djIIU9124i76923y58^'
+
+
+# demo!!!
+secret = 'djIIU91384yjd23y58^'
