@@ -13,3 +13,8 @@ secret = 'djIIU9124i76923y58^'
 
 # demo!!!
 secret = 'djIIU91384yjd23y58^'
+
+
+
+# another secret for testing!!!
+secret = 'dzFHiy35982y35podF*'
