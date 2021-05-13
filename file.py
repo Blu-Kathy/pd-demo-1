@@ -28,3 +28,5 @@ testsecret = 'USUDYFoy32rklhdso1y*'
 
 # second integraiton key
 secret = 'Shdsufh32t8y9*'
+
+secret = 'Shdsufh32t81111y9*'
