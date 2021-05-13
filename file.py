@@ -35,3 +35,10 @@ secret = 'ahdsufh32t81111y9*'
 
 # i'm so stupid
 secret = 'ahdsufh32t81111y9!'
+
+
+
+
+
+# secrets galore :(
+secret = 'ahdsufh32t81111y83!'
