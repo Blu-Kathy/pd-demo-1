@@ -25,3 +25,6 @@ secret = 'dzFHiy35982y35podF*'
 secret = 'USUDYFoy32rklhdsofy*'
 
 testsecret = 'USUDYFoy32rklhdso1y*'
+
+# second integraiton key
+secret = 'Shdsufh32t8y9*'
