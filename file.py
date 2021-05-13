@@ -18,3 +18,8 @@ secret = 'djIIU91384yjd23y58^'
 
 # another secret for testing!!!
 secret = 'dzFHiy35982y35podF*'
+
+
+
+# rip
+secret = 'USUDYFoy32rklhdsofy*'
