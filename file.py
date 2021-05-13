@@ -23,3 +23,5 @@ secret = 'dzFHiy35982y35podF*'
 
 # rip
 secret = 'USUDYFoy32rklhdsofy*'
+
+testsecret = 'USUDYFoy32rklhdso1y*'
